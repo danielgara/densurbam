@@ -12,3 +12,4 @@ A continuación, se describe la información contenida en el dataset `Demanda`.
 | **ID_CORREGIMIENTO** | Identificador de 3 digitos del corregimiento al que pertenece el barrio.  | Dane | No |
 | **AGUA_TODOS_USOS_(L/HAB/DIA)** | Cantidad de litros de agua para todos los usos por habitante por día. | EPM | No |
 | **AGUA_TODOS_USOS_(L/HAB/AÑO)** | Cantidad de litros de agua para todos los usos por habitante por año. | EPM | Se basa en `AGUA_TODOS_USOS_(L/HAB/DIA)` multiplicado por 365. |
+| **AGUA_PARA_VERTIMIENTO_(L/HAB/AÑO)** | Cantidad de litros de agua para vertimiento por habitante por día. | EPM | No |
