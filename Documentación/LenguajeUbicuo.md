@@ -1,3 +1,5 @@
+# LENGUAJE UBICUO
+
 Un lenguaje ubicuo se refiere a la idea de establecer un lenguaje común (terminología) para todos los miembros del proyecto.
 
 A continuación, se presentan los términos claves del proyecto y sus definiciones. Estos términos de utilizarán en toda la documentación del proyecto.
