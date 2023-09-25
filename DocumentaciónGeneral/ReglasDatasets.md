@@ -3,7 +3,7 @@
 A continuación, se presentan las reglas para definir cualquier dataset del proyecto.
 
 ## ARCHIVOS
-1. **Nombramiento:** se deben definir utilizando el formato `CapitalCase`. Ejemplo: `DemandaColombia.xls`.
+1. **Nombramiento:** se deben definir utilizando el formato `PascalCase`. Ejemplo: `DemandaColombia.xls`.
 2. **Ubicación:** se deben ubicar en la carpeta de `/Datasets`. Y se debe almacenar tanto la versión .xsl como la versión .csv.
 
 ## ENCABEZADOS
