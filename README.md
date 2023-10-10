@@ -7,7 +7,7 @@ En este repositorio se encontrará información relevante para la administració
 ## Documentación general y reglas de gestión de la información
 - [Lenguaje ubicuo (lenguaje de términos)](https://github.com/danielgara/densurbam/blob/main/Documentaci%C3%B3nGeneral/LenguajeUbicuo.md)
 - [Reglas de definición de datasets](https://github.com/danielgara/densurbam/blob/main/Documentaci%C3%B3nGeneral/ReglasDatasets.md)
-- [Sugerencias para definición de datasets](https://github.com/danielgara/densurbam/blob/main/Documentaci%C3%B3nGeneral/SugerenciasParaDefinirLosDatasets.pdf)
+- [Sugerencias para definición de datasets (esto fue una nota mental de donde empezó todo)](https://github.com/danielgara/densurbam/blob/main/Documentaci%C3%B3nGeneral/SugerenciasParaDefinirLosDatasets.pdf)
 
 ## Datasets
 - [Documentación Dataset de Demanda](https://github.com/danielgara/densurbam/blob/main/Documentaci%C3%B3nDatasets/Demanda.md)
