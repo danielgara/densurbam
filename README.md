@@ -5,7 +5,7 @@
 En este repositorio se encontrará información relevante para la administración de la información de los datos utilizados por densurbam. Le recomendamos leer en detalle cada uno de los documentos que se presentan a continuación.
 
 ## Documentación general y reglas de gestión de la información
-- [Lenguaje ubicuo](https://github.com/danielgara/densurbam/blob/main/Documentaci%C3%B3nGeneral/LenguajeUbicuo.md)
+- [Lenguaje ubicuo (lenguaje de términos)](https://github.com/danielgara/densurbam/blob/main/Documentaci%C3%B3nGeneral/LenguajeUbicuo.md)
 - [Reglas de definición de datasets](https://github.com/danielgara/densurbam/blob/main/Documentaci%C3%B3nGeneral/ReglasDatasets.md)
 - [Sugerencias para definición de datasets](https://github.com/danielgara/densurbam/blob/main/Documentaci%C3%B3nGeneral/SugerenciasParaDefinirLosDatasets.pdf)
 
